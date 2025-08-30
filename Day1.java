@@ -24,6 +24,7 @@ public class Day1{
         System.out.println("名字："+ name1);
         System.out.println("年齡："+ age1);
         System.out.println("身高："+ height1+ "公分");
+        System.out.println("------");
         //輸出變數+字串
     }
 }
