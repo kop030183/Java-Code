@@ -13,9 +13,17 @@ public class Day1{
         double height = 178.5;      //浮點數
         String name = "Chieh";      //字串 要加雙引號！
         //變數宣告、指定
+        int age1 = 23;               
+        double height1 = 160;     
+        String name1 = "Yu";
 
         System.out.println("名字："+ name);
         System.out.println("年齡："+ age);
         System.out.println("身高："+ height+ "公分");
+
+        System.out.println("名字："+ name1);
+        System.out.println("年齡："+ age1);
+        System.out.println("身高："+ height1+ "公分");
         //輸出變數+字串
     }
+}
